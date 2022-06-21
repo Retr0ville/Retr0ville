@@ -21,23 +21,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0ville&repo=Automart&theme=chartreuse-dark&show_icons=true&hide_border=true&show_owner=true&border_radius=0" />
 
 </a>
-<a href="https://github.com/Retr0ville/Automart">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0ville&repo=Automart&theme=chartreuse-dark&show_icons=true&hide_border=true&show_owner=true&border_radius=0" />
 
-</a>
-<a href="https://github.com/Retr0ville/Automart">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0ville&repo=Automart&theme=chartreuse-dark&show_icons=true&hide_border=true&show_owner=true&border_radius=0" />
-  <a href="https://github.com/Retr0ville/Automart">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Retr0ville&repo=Automart&theme=chartreuse-dark&show_icons=true&hide_border=true&show_owner=true&border_radius=0" />
 
-</a>
 
-</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&layout=compact)](https://github.com/Retr0ville)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&layout=compact&border_radius=0&theme=chartreuse-dark&show_icons=true&hide_border=true)](https://github.com/Retr0ville)
 
 
 
