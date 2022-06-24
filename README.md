@@ -7,17 +7,18 @@
 </p>
 <p>
   <a href="https://github.com/Retr0ville">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=chartreuse-dark&username=Retr0ville&show_icons=true&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=jolly&username=Retr0ville&show_icons=true&count_private=true">
   </a>
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=jolly&show_icons=true">
 </p>
 <p >
   <a href="https://github.com/Retr0ville">
     <img align="center" src="./github_stats.svg">
   </a>
 </p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=chartreuse-dark&show_icons=true">
-</p>
+
 
 
 
