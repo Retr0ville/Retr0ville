@@ -5,6 +5,8 @@
     <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
 </p>
+<h1>I am Samuel Akhaze</h1>
+<p>I write code for the web</p>
 <p>
   <a href="https://github.com/Retr0ville">
     <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=radical&username=Retr0ville&show_icons=true&count_private=true">
