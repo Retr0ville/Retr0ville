@@ -12,16 +12,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=radical&username=Retr0ville&show_icons=true&count_private=true&include_all_commits=false">
   </a>
 </p>
-<div>
-<span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&card_width=500&langs_count=10">
-</span>
-<span >
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=10">
+</p>
+<p >
   <a href="https://github.com/Retr0ville">
     <img align="center" src="./github_stats.svg">
   </a>
-</span>
-</div>
+</p>
 
 
 
