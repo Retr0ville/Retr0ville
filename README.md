@@ -5,7 +5,7 @@
     <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
 </p>
-<h1>I am Samuel Akhaze</h1>
+<h1>Samuel Akhaze</h1>
 <p>I write code for the web</p>
 <p>
   <a href="https://github.com/Retr0ville">
