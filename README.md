@@ -23,7 +23,7 @@
 
 
 <h1>Samuel Akhaze</h1>
-<p>I write code for the web</p>
+<p>I write code</p>
 <p>
   <a href="https://github.com/Retr0ville">
     <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=radical&username=Retr0ville&show_icons=true&count_private=true&include_all_commits=false">
