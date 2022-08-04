@@ -30,14 +30,15 @@
   </a>
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=6">
 </p>
-<p >
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0ville&theme=radical" alt="Sammy" /></p>
+<p align="">
   <a href="https://github.com/Retr0ville">
-    <img align="center" src="./github_stats.svg">
+    <img  src="./github_stats.svg">
   </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0ville&theme=radical" alt="Sammy" /></p>
 
 
 
