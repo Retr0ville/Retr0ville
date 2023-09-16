@@ -31,11 +31,6 @@
   </a>
 </p>
 <p>
-  <a href="https://github.com/Retr0ville">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=radical&username=Retr0ville&show_icons=true&count_private=true&include_all_commits=true">
-  </a>
-</p>
-<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=6">
 </p>
 
