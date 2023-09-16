@@ -24,7 +24,12 @@
 </a>
 
 <p><code>I know Haskell, Lisp, Prolog, Assembly, Malboge and some other dangerous words</code></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Retr0ville&theme=juicyfresh&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Retr0ville&theme=juicyfresh&no-frame=true">
+  </a>
+</p>
 <p>
   <a href="https://github.com/Retr0ville">
     <img align="center" src="https://github-readme-stats.vercel.app/api?&theme=radical&username=Retr0ville&show_icons=true&count_private=true&include_all_commits=true">
