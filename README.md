@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Retr0ville&label=Profile%20views&color=0e75b6&style=flat" alt="sammy" /> </p>
 </a>
 
-<p><code>I know Haskell, Lisp, Prolog, Assembly, Malboge and some other dangerous words</code></p>
+<p><code>I know Haskell, Lisp, Prolog, Assembly, Malboge and some other esoteric words</code></p>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
