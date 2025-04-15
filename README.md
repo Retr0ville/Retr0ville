@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Retr0ville&label=Profile%20views&color=0e75b6&style=flat" alt="sammy" /> </p>
 </a>
 
-<p><code>Trick or trick</code></p>
+<p><code>You think the compiler is your ally</code></p>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
