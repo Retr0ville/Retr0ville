@@ -2,6 +2,9 @@
      <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
 </a>
 
+<a href="https://retr0ville.github.io/">
+    <img alt="Blog" src="https://img.shields.io/badge/blog-8A2BE2">
+</a>
 <a href="https://rtrvl-portfolio.netlify.app/">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
 </a>
