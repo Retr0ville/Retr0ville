@@ -21,9 +21,9 @@
 <a href='https://rtrvl-portfolio.netlify.app/' target='_blank'><img
       align="center"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-      alt=""/>
+      alt="" width="90px"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Retr0ville&label=Profile%20views&color=0e75b6&style=flat" alt="sammy" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Retr0ville&label=Profile%20views&color=0e75b6&style=flat" alt="sammy" /> </p>
 </a>
 
 <p><code>You think the compiler is your ally</code></p>
