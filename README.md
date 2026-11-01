@@ -30,11 +30,11 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Retr0ville&theme=juicyfresh&no-frame=true">
+    <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Retr0ville&theme=juicyfresh&no-frame=true"> -->
   </a>
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=6">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0ville&theme=radical&show_icons=true&langs_count=6"> -->
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0ville&theme=radical" alt="Sammy" /></p>
